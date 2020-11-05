@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID+Private.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairStore.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.m \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBBootstrap.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBArray.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBRuntimeTypes.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBCodedInputStream.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBCodedOutputStream.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBWireFormat.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBDescriptor.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBDictionary.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBExtensionRegistry.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBMessage.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBRootObject.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBUnknownField.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBUnknownFieldSet.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBUtilities.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/Protobuf/GPBWellKnownTypes.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Any.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/GPBDescriptor.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/GPBMessage.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/GPBRootObject.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Duration.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Timestamp.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Api.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Empty.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/FieldMask.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/SourceContext.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Struct.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Type.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/protobuf/Wrappers.pbobjc.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h

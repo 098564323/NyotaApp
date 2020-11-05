@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>81C55F1E-60CD-4B11-B407-10D9BE8292B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81C55F1E-60CD-4B11-B407-10D9BE8292B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Nyota project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Nyota</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Nyota with scheme Nyota and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>608879844.13402998</real>
+			<key>timeStoppedRecording</key>
+			<real>608879856.54538405</real>
+			<key>title</key>
+			<string>Building workspace Nyota with scheme Nyota and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>81C55F1E-60CD-4B11-B407-10D9BE8292B8</string>
+		</dict>
+		<key>A48CA29F-D703-4F85-AB26-F5BB11A7D69F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A48CA29F-D703-4F85-AB26-F5BB11A7D69F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Nyota project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Nyota</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Nyota with scheme Nyota and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>608879599.37359905</real>
+			<key>timeStoppedRecording</key>
+			<real>608879613.57484996</real>
+			<key>title</key>
+			<string>Building workspace Nyota with scheme Nyota and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A48CA29F-D703-4F85-AB26-F5BB11A7D69F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

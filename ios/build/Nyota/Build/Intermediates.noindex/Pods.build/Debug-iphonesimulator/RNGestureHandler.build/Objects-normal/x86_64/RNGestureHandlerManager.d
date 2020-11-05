@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.m \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/ios/Pods/Headers/Public/React-Core/React/RCTTouchHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/RNRootViewGestureRecognizer.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNPanHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNTapHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNFlingHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNLongPressHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNPinchHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNRotationHandler.h \
+  /Users/iCreative/Documents/Projects/ReactNative/Nyota/GitSource/nyota/node_modules/react-native-gesture-handler/ios/Handlers/RNForceTouchHandler.h
